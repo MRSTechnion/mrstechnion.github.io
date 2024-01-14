@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mrs-technion.github.io/sitemap.xml
+Sitemap: https://mrstechnion.github.io/sitemap.xml
