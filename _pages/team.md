@@ -30,7 +30,7 @@ nav_order: 1
           <div class="card-body">
           <center>
             <h2 class="card-title text">Ori Menashe</h2>
-            <p class="card-text">Lab Engineer</p>
+            <p class="card-text">Head Engineer</p>
           </center>
           </div>
         </div>
@@ -50,7 +50,31 @@ nav_order: 1
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/itai_panasoff.png">
+          <img src="../assets/img/people/dolev_freund.png">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Dolev Freund</h2>
+            <p class="card-text">M.Sc. Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/roy_steinberg.png">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Roy Steinberg</h2>
+            <p class="card-text">Software Engineer</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/itai_panasoff.jpg">
           <div class="card-body">
           <center>
             <h2 class="card-title text">Itai Panasoff</h2>
