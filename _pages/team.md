@@ -116,7 +116,9 @@ nav_order: 1
 
 <div class="grid-item">
         <div class="card hoverable">
+        <a href="https://www.linkedin.com/in/yotamgranov" target="_blank">
           <img src="../assets/img/people/yotam_granov.png">
+          </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Yotam Granov</h2>
