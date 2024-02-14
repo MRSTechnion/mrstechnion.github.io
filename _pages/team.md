@@ -50,7 +50,9 @@ nav_order: 1
 
   <div class="grid-item">
         <div class="card hoverable">
+        	<a href="https://www.linkedin.com/in/dolev-freund-658447250/" target="_blank">
           <img src="../assets/img/people/dolev_freund.png">
+          </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Dolev Freund</h2>
@@ -86,7 +88,9 @@ nav_order: 1
 
 <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/jannis_boening.png">
+        <a href="https://www.linkedin.com/in/jboening/" target="_blank">
+          <img src="../assets/img/people/jannis_boening.jpg">
+          </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Jannis Boening</h2>
@@ -98,7 +102,9 @@ nav_order: 1
 
 <div class="grid-item">
         <div class="card hoverable">
+        <a href="https://il.linkedin.com/in/yaniv-hassidof-7885191b8" target="_blank">
           <img src="../assets/img/people/yaniv_hassidof.png">
+          </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Yaniv Hassidof</h2>
