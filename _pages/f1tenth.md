@@ -13,7 +13,6 @@ nav_order: 4
 Our lab hosts and mentors the Technion [F1/10](https://f1tenth.org) team who build, develop, and race the autonomous racecar in international events.
 
 ## 2023/24
-List here all the members, with links to their website / linkedin, their role in the team, degree, and the faculty they came from. 
 <ul>
   <li>
     <strong>Eyal Kaldor</strong> - Team Role: Hardware Engineer - B.Sc. Mechanical Engineering (Currently pursuing M.Sc. in Mechanical Engineering)
@@ -111,7 +110,6 @@ List here all the members, with links to their website / linkedin, their role in
 </ul>
 
 ## 2022/23
-List here all the members, with links to their website / linkedin, their role in the team, degree, and the faculty they came from. 
 
 <ul>
   <li>
