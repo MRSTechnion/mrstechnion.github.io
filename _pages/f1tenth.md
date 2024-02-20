@@ -2,15 +2,17 @@
 layout: page
 permalink: /f1tenth/
 title: F1Tenth
-description: F1TENTH is an international community of researchers, engineers, and autonomous systems enthusiasts founded at the University of Pennsylvania in 2016. F1TENTH’s mission is to provide an open-source platform for autonomous systems research and education, along with holding a number of autonomous race car competitions each year where teams from all around the world gather to compete. The Technion F1TENTH Team was launched in October 2022 under the supervision of Dr. Kiril Solovey of the Technion’s Electrical & Computer Engineering Faculty, in order to conduct research in autonomous racing and participate in international racing competitions. The team has a fleet of four cars. We competed for the first time in the 11th F1TENTH Autonomous Grand Prix competition, held at the ICRA 2023 conference in London in May 2023. The team has also participated in the 14TH Autonomous Grand Prix held in IROS in Detroit in October 2023. 
-
-The team is composed of undergraduate and graduate students from different faculties in the Technion. It is currently subdivided into three teams. The planning and control team works on implementing algorithms to generate and execute dynamically feasible paths at the edge of vehicle dynamics. The perception team focuses on implementing robust perception algorithms leveraging the onboard LIDAR and Camera. The hardware team works on the hardware of the cars: from tuning the different parameters to ensure proper odometry and mapping to acquiring relevant information to create kinematic and dynamic models. They also assist in testing the different solutions. 
+description: 
 
 nav: true
 nav_order: 4
 ---
 
-Our lab hosts and mentors the Technion [F1/10](https://f1tenth.org) team who build, develop, and race the autonomous racecar in international events.
+Our lab hosts and mentors the Technion [F1TENTH](https://f1tenth.org) team who build, develop, and race the autonomous racecar in international events.
+
+F1TENTH is an international community of researchers, engineers, and autonomous systems enthusiasts founded at the University of Pennsylvania in 2016. F1TENTH’s mission is to provide an open-source platform for autonomous systems research and education, along with holding a number of autonomous race car competitions each year where teams from all around the world gather to compete. The Technion F1TENTH Team was launched in October 2022 under the supervision of Dr. Kiril Solovey of the Technion’s Electrical & Computer Engineering Faculty, in order to conduct research in autonomous racing and participate in international racing competitions. The team has a fleet of four cars. We competed for the first time in the 11th F1TENTH Autonomous Grand Prix competition, held at the ICRA 2023 conference in London in May 2023. The team has also participated in the 14TH Autonomous Grand Prix held in IROS in Detroit in October 2023. 
+
+The team is composed of undergraduate and graduate students from different faculties in the Technion. It is currently subdivided into three teams. The planning and control team works on implementing algorithms to generate and execute dynamically feasible paths at the edge of vehicle dynamics. The perception team focuses on implementing robust perception algorithms leveraging the onboard LIDAR and Camera. The hardware team works on the hardware of the cars: from tuning the different parameters to ensure proper odometry and mapping to acquiring relevant information to create kinematic and dynamic models. They also assist in testing the different solutions. 
 
 ## 2023/24
 <ul>
