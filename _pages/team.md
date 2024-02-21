@@ -6,6 +6,13 @@ description:
 nav: true
 nav_order: 1
 ---
+<style>
+  .grid-item img {
+    max-width: 100%;  /* scale down if too wide */
+    height: auto;  /* maintain aspect ratio */
+    display: block;  /* remove extra space around the image */
+  }
+</style>
 
 <div class="people">
   <div class="grid">
