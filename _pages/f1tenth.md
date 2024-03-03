@@ -45,22 +45,29 @@ The team is composed of undergraduate and graduate students from different facul
 *  <strong>Snir Carmeli</strong> - Planning and Control - M.Sc., Electrical and Computer Engineering
     <a href="https://www.linkedin.com/in/snir-carmeli-39a41a20a/">LinkedIn</a>
 * <strong>Orr Steinhart</strong> - Planning and Control - B.Sc.,  Mechanical Engineering
-    <!-- <a href="https://www.linkedin.com/in/snir-carmeli-39a41a20a/">LinkedIn</a> 
+    <a href="https://www.linkedin.com/in/or-steinhart-24b0b522a/">LinkedIn</a>  
 * <strong>Ori Razon</strong> - Planning and Control - B.Sc.,  Electrical and Computer Engineering
     <a href="https://www.linkedin.com/in/ori-razon-2a561b223/">LinkedIn</a>
 * <strong>Ofir Elyashiv</strong> - Planning and Control - B.Sc., Electrical and Computer Engineering
 *   <strong>Andres Kaminker</strong> - Team Leader - B.Sc., Mechanical Engineering
     <a href="https://www.linkedin.com/in/andres-kaminker/">LinkedIn</a> 
+* <strong>Yotam Granov</strong> - Planning and Control - B.Sc., Mechanical Engineering and Physics
+    <a href="https://www.linkedin.com/in/yotamgranov/">LinkedIn</a>
 
 ## 2022/23
-* <strong>Yotam Granov</strong> - Planning and Control - B.Sc., Mechanical Engineering and Phyisics
+* <strong>Yotam Granov</strong> - Team Leader - B.Sc., Mechanical Engineering and Physics
     <a href="https://www.linkedin.com/in/yotamgranov/">LinkedIn</a> 
 *    <strong>Alexander Furman</strong> - Planning and Control - B.Sc., Mechanical Engineering
     <a href="https://www.linkedin.com/in/alexander-furman/">LinkedIn</a>
-*     <strong>Aron Klevansky</strong> - Planning and Control - B.Sc., Mechanical Engineering
+*     <strong>Aron Klevansky</strong> - Planning and Control - B.Sc., Computer Engineering and Physics 
      <a href="https://www.linkedin.com/in/andres-kaminker/">LinkedIn</a>
 *  <strong>David Calderon</strong> - Perception & Vision - B.Sc., Electrical and Computer Engineering
     <a href="https://www.linkedin.com/in/david-calderon-910354173/">LinkedIn</a> 
 *  <strong>Tobi Weinberg</strong> - Perception & Vision - B.Sc., Mechanical Engineering
     <a href="https://www.linkedin.com/in/tobias-weinberg/"> LinkedIn</a> | <a href="https://tobiwg.com/">Website</a>
+* <strong>Ori Razon</strong> - Hardware - B.Sc.,  Electrical and Computer Engineering
+    <a href="https://www.linkedin.com/in/ori-razon-2a561b223/">LinkedIn</a>
+*   <strong>Andres Kaminker</strong> - Hardware - B.Sc., Mechanical Engineering
+    <a href="https://www.linkedin.com/in/andres-kaminker/">LinkedIn</a> 
+
 
