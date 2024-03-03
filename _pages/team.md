@@ -33,7 +33,9 @@ nav_order: 1
 
   <div class="grid-item">
         <div class="card hoverable">
+        <a href="https://github.com/orimana2020?tab=repositories" target="_blank">
           <img src="../assets/img/people/ori_menashe.png">
+        </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Ori Menashe</h2>
