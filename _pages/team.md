@@ -125,6 +125,20 @@ nav_order: 1
 
 <div class="grid-item">
         <div class="card hoverable">
+        <a href="https://www.linkedin.com/in/snir-carmeli-39a41a20a/" target="_blank">
+          <img src="../assets/img/people/snir_carmeli.png">
+        </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Snir Carmeli</h2>
+            <p class="card-text">M.Sc. Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+<div class="grid-item">
+        <div class="card hoverable">
         <a href="https://www.linkedin.com/in/yotamgranov" target="_blank">
           <img src="../assets/img/people/yotam_granov.png">
           </a>
