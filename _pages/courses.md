@@ -43,8 +43,8 @@ The course covers advanced algorithms (e.g., dynamic programming, network flow, 
 
 <br />
 
-#### 048xxx Advanced Topics in Robotics (Spring 2023/4)
-Stay tuned for a detailed syllabus...
+#### 048214 Advanced Topics in Robotics: Modern Methods and Applications(Spring 2023/4)
+This course will be given in a seminar format. Students will be exposed to recent work on autonomous robotic systems, with an emphasis on algorithmic aspects in control, planning, and estimation. Theoretical topics would be considered as well as practical considerations. On the side of theory, we shall review, for instance, learning-based approaches for planning and control, distributed computation among robots, Markovian reasoning, and robotic networks. On the practical side, we will consider, e.g., coordination between multiple robots, autonomous driving, search and rescue, robots in space and underground, and smart mobility. The student presentations would be based on survey papers from the [Annual Review of Control, Robotics, and Autonomous Systems](https://www.annualreviews.org/content/journals/control) and central papers in the studied areas.
 <br />
 
 
