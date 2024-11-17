@@ -91,7 +91,7 @@ nav_order: 1
           <div class="card-body">
           <center>
             <h2 class="card-title text">Roy Steinberg</h2>
-            <p class="card-text">Software Engineer</p>
+            <p class="card-text">M.Sc. Student</p>
           </center>
           </div>
         </div>
@@ -109,19 +109,7 @@ nav_order: 1
         </div>
   </div>
 
-<div class="grid-item">
-        <div class="card hoverable">
-        <a href="https://www.linkedin.com/in/jboening/" target="_blank">
-          <img src="../assets/img/people/jannis_boening.jpg">
-          </a>
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Jannis Boening</h2>
-            <p class="card-text">M.Sc. Student</p>
-          </center>
-          </div>
-        </div>
-  </div>
+
 
 <div class="grid-item">
         <div class="card hoverable">
@@ -151,7 +139,18 @@ nav_order: 1
         </div>
   </div>
 
-<div class="grid-item">
+
+  
+</div>
+</div>
+
+<br />
+### Alumni
+
+<div class="people">
+  <div class="grid">
+    <div class="grid-sizer"></div>
+    <div class="grid-item">
         <div class="card hoverable">
         <a href="https://www.linkedin.com/in/yotamgranov" target="_blank">
           <img src="../assets/img/people/yotam_granov.png">
@@ -164,16 +163,19 @@ nav_order: 1
           </div>
         </div>
   </div>
-  
-</div>
-</div>
-
-<br />
-### Alumni
-
-<div class="people">
-  <div class="grid">
-    <div class="grid-sizer"></div>
+    <div class="grid-item">
+        <div class="card hoverable">
+        <a href="https://www.linkedin.com/in/jboening/" target="_blank">
+          <img src="../assets/img/people/jannis_boening.jpg">
+          </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Jannis Boening</h2>
+            <p class="card-text">M.Sc. </p>
+          </center>
+          </div>
+        </div>
+    </div>
       <div class="grid-item">
         <a href="https://www.linkedin.com/in/michael-ivanov-987312131/" target="_blank">
           <div class="card hoverable">
