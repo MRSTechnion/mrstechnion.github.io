@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p align="center" width="100%">
-    <img width="95%" src="../assets/img/courses/multi_robot_systems.png">
+    <img width="95%" src="assets/img/courses/multi_robot_systems.png">
 </p>
 
 {: style="text-align: justify" }
