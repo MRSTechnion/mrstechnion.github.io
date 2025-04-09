@@ -48,7 +48,6 @@ nav_order: 1
   <div class="grid-item">
         <div class="card hoverable">
           <img src="../assets/img/people/adir_morgan.jpg">
-          </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Adir Morgan</h2>
