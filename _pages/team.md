@@ -47,6 +47,19 @@ nav_order: 1
 
   <div class="grid-item">
         <div class="card hoverable">
+          <img src="../assets/img/people/adir_morgan.jpg">
+          </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Adir Morgan</h2>
+            <p class="card-text">Phd Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
         	<a href="https://www.linkedin.com/in/avishav-engle-4a8316112/" target="_blank">
           <img src="../assets/img/people/avishav_engle.jpg">
           </a>
