@@ -175,7 +175,7 @@ nav_order: 1
  <div class="grid-item">
         <div class="card hoverable">
 		<a href="https://www.linkedin.com/in/andres-kaminker/" target="_blank">
-		<img src="../assets/img/people/temp_image.jpg">
+		<img src="../assets/img/people/andy_kaminker.jpg">
         </a>
           <div class="card-body">
           <center>
