@@ -49,13 +49,15 @@ nav_order: 1
         </div>
   </div>
 
- <div class="grid-item">
+<div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/itai_panasoff.jpg">
+        <a href="https://www.linkedin.com/in/yoni-mandel-5690555a/" target="_blank">
+          <img src="../assets/img/people/yoni_mandel.png">
+          </a>
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Itai Panasoff</h2>
-            <p class="card-text">PhD Student</p>
+            <h2 class="card-title text">Yonatan Mandel</h2>
+            <p class="card-text">PhD Student </p>
           </center>
           </div>
         </div>
@@ -95,7 +97,7 @@ nav_order: 1
           <center>
             <h2 class="card-title text">Adir Morgan</h2>
             <p class="card-text">
-			   Phd Student <br>
+			   PhD Student <br>
 			   Co-advised by <a href="https://crl.cs.technion.ac.il/team/">Oren Salzman</a>
 			</p>
           </center>
@@ -110,7 +112,7 @@ nav_order: 1
           <center>
             <h2 class="card-title text">Max Fainkich</h2>
             <p class="card-text">
-			   Phd Student <br>
+			   PhD Student <br>
 			   Co-advised by <a href="https://aerospace.technion.ac.il/person/anna-clarke/">Anna Clarke</a>
 			</p>
           </center>
@@ -118,20 +120,7 @@ nav_order: 1
         </div>
   </div>
 
-  <div class="grid-item">
-        <div class="card hoverable">
-        	<a href="https://www.linkedin.com/in/avishav-engle-4a8316112/" target="_blank">
-          <img src="../assets/img/people/avishav_engle.jpg">
-          </a>
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Avishav Engle</h2>
-            <p class="card-text">MSc Student</p>
-          </center>
-          </div>
-        </div>
-  </div>
-
+ 
   <div class="grid-item">
         <div class="card hoverable">
           <img src="../assets/img/people/ido_jacobi.png">
@@ -196,8 +185,35 @@ nav_order: 1
 ### Alumni
 
 <div class="people">
-  <div class="grid">
+<div class="grid">
     <div class="grid-sizer"></div>
+<div class="grid-item">
+        <div class="card hoverable">
+        	<a href="https://www.linkedin.com/in/avishav-engle-4a8316112/" target="_blank">
+          <img src="../assets/img/people/avishav_engle.jpg">
+          </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Avishav Engle</h2>
+            <p class="card-text">MSc Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+ <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/itai_panasoff.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Itai Panasoff</h2>
+            <p class="card-text">MSc Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  
 	<div class="grid-item">
         <div class="card hoverable">
         <a href="https://github.com/orimana2020?tab=repositories" target="_blank">
@@ -235,7 +251,7 @@ nav_order: 1
             <p class="card-text">MSc </p>
           </center>
           </div>
-        </div>
+        </div> 
     </div>
       <div class="grid-item">
         <a href="https://www.linkedin.com/in/michael-ivanov-987312131/" target="_blank">
