@@ -120,7 +120,19 @@ nav_order: 1
         </div>
   </div>
 
- 
+ <div class="grid-item">
+        <div class="card hoverable">
+		<a href="https://www.linkedin.com/in/itamar-mantzur3113" target="_blank">
+          <img src="../assets/img/people/itamar_mantzur.jpeg">
+        </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Itamar Manzur</h2>
+            <p class="card-text">MSc Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
   <div class="grid-item">
         <div class="card hoverable">
           <img src="../assets/img/people/ido_jacobi.png">
@@ -133,19 +145,6 @@ nav_order: 1
         </div>
   </div>
 
-  <div class="grid-item">
-        <div class="card hoverable">
-        	<a href="https://www.linkedin.com/in/dolev-freund-658447250/" target="_blank">
-          <img src="../assets/img/people/dolev_freund.png">
-          </a>
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Dolev Freund</h2>
-            <p class="card-text">MSc Student</p>
-          </center>
-          </div>
-        </div>
-  </div>
 
 <div class="grid-item">
         <div class="card hoverable">
@@ -187,6 +186,19 @@ nav_order: 1
 <div class="people">
 <div class="grid">
     <div class="grid-sizer"></div>
+	<div class="grid-item">
+        <div class="card hoverable">
+        	<a href="https://www.linkedin.com/in/dolev-freund-658447250/" target="_blank">
+          <img src="../assets/img/people/dolev_freund.png">
+          </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Dolev Freund</h2>
+            <p class="card-text">MSc Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
 <div class="grid-item">
         <div class="card hoverable">
         	<a href="https://www.linkedin.com/in/avishav-engle-4a8316112/" target="_blank">
