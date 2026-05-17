@@ -122,18 +122,95 @@ nav_order: 1
 
  <div class="grid-item">
         <div class="card hoverable">
+		<a href="https://www.linkedin.com/in/andres-kaminker/" target="_blank">
+		<img src="../assets/img/people/andy_kaminker.jpg">
+        </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Andres Kaminker</h2>
+            <p class="card-text">
+			   MSc Student <br>  &nbsp;
+			</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+ <div class="grid-item">
+        <div class="card hoverable">
 		<a href="https://www.linkedin.com/in/itamar-mantzur3113" target="_blank">
           <img src="../assets/img/people/itamar_mantzur.jpeg">
         </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Itamar Manzur</h2>
-            <p class="card-text">MSc Student</p>
+            <p class="card-text">MSc Student <br>  &nbsp;  </p>
           </center>
           </div>
         </div>
   </div>
-  <div class="grid-item">
+  
+
+
+
+
+ <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/sireen_sobih.jpeg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Sireen Sobih</h2>
+            <p class="card-text">MSc Student
+<br>
+			   Co-advised by <a href="https://aerospace.technion.ac.il/person/anna-clarke/">Anna Clarke</a>
+</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+ <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/temp_image.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Anil Zaher</h2>
+            <p class="card-text">MSc Student
+<br>
+			   Co-advised by <a href="https://sites.google.com/view/alejandrocohen/">Alejandro Cohen</a>
+</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+<div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/temp_image.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Noa Amsalem</h2>
+            <p class="card-text">MSc Student
+<br>
+			  &nbsp;
+</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+</div>
+</div>
+
+
+<br />
+### Alumni
+
+<div class="people">
+<div class="grid">
+    <div class="grid-sizer"></div>
+
+ <div class="grid-item">
         <div class="card hoverable">
           <img src="../assets/img/people/ido_jacobi.png">
           <div class="card-body">
@@ -160,32 +237,7 @@ nav_order: 1
         </div>
 </div>
 
- <div class="grid-item">
-        <div class="card hoverable">
-		<a href="https://www.linkedin.com/in/andres-kaminker/" target="_blank">
-		<img src="../assets/img/people/andy_kaminker.jpg">
-        </a>
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Andres Kaminker</h2>
-            <p class="card-text">
-			   Robotics Engineer
-			</p>
-          </center>
-          </div>
-        </div>
-  </div>
 
-</div>
-</div>
-
-
-<br />
-### Alumni
-
-<div class="people">
-<div class="grid">
-    <div class="grid-sizer"></div>
 	<div class="grid-item">
         <div class="card hoverable">
         	<a href="https://www.linkedin.com/in/dolev-freund-658447250/" target="_blank">
