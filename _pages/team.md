@@ -120,6 +120,23 @@ nav_order: 1
         </div>
   </div>
 
+<div class="grid-item">
+        <div class="card hoverable">
+			<a href="https://www.linkedin.com/in/anil-zaher-43bb4b32b?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+          <img src="../assets/img/people/anil_zaher.jpg">
+          </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Anil Zaher</h2>
+            <p class="card-text">PhD Student (direct)
+<br>
+			   Co-advised by <a href="https://sites.google.com/view/alejandrocohen/">Alejandro Cohen</a>
+</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
  <div class="grid-item">
         <div class="card hoverable">
 		<a href="https://www.linkedin.com/in/andres-kaminker/" target="_blank">
@@ -169,20 +186,7 @@ nav_order: 1
         </div>
   </div>
 
- <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/temp_image.jpg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Anil Zaher</h2>
-            <p class="card-text">MSc Student
-<br>
-			   Co-advised by <a href="https://sites.google.com/view/alejandrocohen/">Alejandro Cohen</a>
-</p>
-          </center>
-          </div>
-        </div>
-  </div>
+ 
 
 <div class="grid-item">
         <div class="card hoverable">
