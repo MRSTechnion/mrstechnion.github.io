@@ -39,15 +39,31 @@ nav_order: 1
 
  <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/andrey_zhitnikov.jpeg">
+        <a href="https://idocohen.co.il/" target="_blank">
+          <img src="../assets/img/people/ido_cohen.jpg">
+        </a>
           <div class="card-body">
           <center>
-            <h2 class="card-title text"> Andrey Zhitnikov</h2>
+            <h2 class="card-title text"> Ido Cohen</h2>
             <p class="card-text">Postdoctoral Scholar</p>
           </center>
           </div>
         </div>
   </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+        <a href="https://github.com/AyalonLevy" target="_blank">
+          <img src="../assets/img/people/ayalon_levy.jpg">
+        </a>
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Ayalon Levy</h2>
+            <p class="card-text">Head Engineer</p>
+          </center>
+          </div>
+        </div>
+  </div>	
 
 <div class="grid-item">
         <div class="card hoverable">
@@ -71,20 +87,21 @@ nav_order: 1
           <div class="card-body">
           <center>
             <h2 class="card-title text">Yaniv Hassidof</h2>
-            <p class="card-text">PhD Student (direct)</p>
+            <p class="card-text">PhD Student (Direct Track)</p> <br>
           </center>
           </div>
         </div>
   </div>
 
-
-  <div class="grid-item">
+<div class="grid-item">
         <div class="card hoverable">
+        <a href="https://www.linkedin.com/in/roy-steinberg-2b91a0211/" target="_blank">
           <img src="../assets/img/people/roy_steinberg.png">
+          </a>
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Roy Steinberg</h2>
-            <p class="card-text"> PhD Student (direct) <br> &nbsp; </p>
+            <h2 class="card-title text">Yaniv Hassidof</h2>
+            <p class="card-text">PhD Student (Direct Track)</p> <br>
           </center>
           </div>
         </div>
@@ -98,7 +115,7 @@ nav_order: 1
             <h2 class="card-title text">Adir Morgan</h2>
             <p class="card-text">
 			   PhD Student <br>
-			   Co-advised by <a href="https://crl.cs.technion.ac.il/team/">Oren Salzman</a>
+			   Co-advised by <a href="https://crl.cs.technion.ac.il/team/">Oren Salzman</a>  <br>  &nbsp;
 			</p>
           </center>
           </div>
@@ -107,7 +124,7 @@ nav_order: 1
 
    <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/temp_image.jpg">
+          <img src="../assets/img/people/anon.png">
           <div class="card-body">
           <center>
             <h2 class="card-title text">Max Fainkich</h2>
@@ -122,16 +139,30 @@ nav_order: 1
 
 <div class="grid-item">
         <div class="card hoverable">
-			<a href="https://www.linkedin.com/in/anil-zaher-43bb4b32b?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+			<a href="https://www.linkedin.com/in/anil-zaher-43bb4b32b" target="_blank">
           <img src="../assets/img/people/anil_zaher.jpg">
           </a>
           <div class="card-body">
           <center>
             <h2 class="card-title text">Anil Zaher</h2>
-            <p class="card-text">PhD Student (direct)
+            <p class="card-text">PhD Student (Direct Track)
 <br>
 			   Co-advised by <a href="https://sites.google.com/view/alejandrocohen/">Alejandro Cohen</a>
 </p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+ <div class="grid-item">
+        <div class="card hoverable">
+		<img src="../assets/img/people/sagi_ben_lulu.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Sagi Ben Lulu</h2>
+            <p class="card-text">
+			   MSc Student <br>  &nbsp;
+			</p>
           </center>
           </div>
         </div>
@@ -167,10 +198,6 @@ nav_order: 1
         </div>
   </div>
   
-
-
-
-
  <div class="grid-item">
         <div class="card hoverable">
           <img src="../assets/img/people/sireen_sobih.jpeg">
@@ -186,15 +213,28 @@ nav_order: 1
         </div>
   </div>
 
- 
-
 <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/temp_image.jpg">
+          <img src="../assets/img/people/noa_amsalem.jpg">
           <div class="card-body">
           <center>
             <h2 class="card-title text">Noa Amsalem</h2>
             <p class="card-text">MSc Student
+<br>
+			  &nbsp;
+</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+<div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/idan_alter.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Idan Alter</h2>
+            <p class="card-text">Undergrad Student
 <br>
 			  &nbsp;
 </p>
@@ -213,6 +253,18 @@ nav_order: 1
 <div class="people">
 <div class="grid">
     <div class="grid-sizer"></div>
+
+ <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/andrey_zhitnikov.jpeg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text"> Andrey Zhitnikov</h2>
+            <p class="card-text">Postdoctoral Scholar</p>
+          </center>
+          </div>
+        </div>
+  </div>
 
  <div class="grid-item">
         <div class="card hoverable">
@@ -242,19 +294,20 @@ nav_order: 1
 </div>
 
 
-	<div class="grid-item">
-        <div class="card hoverable">
-        	<a href="https://www.linkedin.com/in/dolev-freund-658447250/" target="_blank">
-          <img src="../assets/img/people/dolev_freund.png">
-          </a>
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Dolev Freund</h2>
-            <p class="card-text">MSc Student</p>
-          </center>
-          </div>
+<div class="grid-item">
+      <div class="card hoverable">
+        <a href="https://www.linkedin.com/in/dolev-freund-658447250/" target="_blank">
+        <img src="../assets/img/people/dolev_freund.png">
+        </a>
+        <div class="card-body">
+        <center>
+          <h2 class="card-title text">Dolev Freund</h2>
+          <p class="card-text">MSc Student</p>
+        </center>
         </div>
+      </div>
   </div>
+
 <div class="grid-item">
         <div class="card hoverable">
         	<a href="https://www.linkedin.com/in/avishav-engle-4a8316112/" target="_blank">
@@ -281,8 +334,7 @@ nav_order: 1
         </div>
   </div>
 
-  
-	<div class="grid-item">
+  <div class="grid-item">
         <div class="card hoverable">
         <a href="https://github.com/orimana2020?tab=repositories" target="_blank">
           <img src="../assets/img/people/ori_menashe.png">
@@ -295,7 +347,8 @@ nav_order: 1
           </div>
         </div>
   </div>	
-    <div class="grid-item">
+
+  <div class="grid-item">
         <div class="card hoverable">
         <a href="https://www.linkedin.com/in/yotamgranov" target="_blank">
           <img src="../assets/img/people/yotam_granov.png">
